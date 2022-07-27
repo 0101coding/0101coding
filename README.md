@@ -5,8 +5,6 @@
 
 I'm a Sofware Engineer with over 9 years experience building enterprise backend systems. I have been stuck with corprate tech, but I amd giving a stab at Open Source.
 
-Joined Gihub **{{ACOUNT_AGE}}** years ago
-
 ### Tech Stacks I have used in Production
 - 🛠 &nbsp; PHP, Laravel, VueJs, Javascript, C#, ASP.net, VB.net
 - 🌱 &nbsp; I've also learnt RUST, Solidity, Blockchain Development
